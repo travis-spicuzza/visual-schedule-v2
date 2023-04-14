@@ -15,9 +15,9 @@ const schedule = {
         afternoon: "Out of Office"
     },
     "2023-04-11": {
-      morning: "Grand Rapids",
-      midday: "Grand Rapids",
-      afternoon: "Grand Rapids"
+        morning: "Grand Rapids",
+        midday: "Grand Rapids",
+        afternoon: "Grand Rapids"
     },
     "2023-04-12": {
         morning: "Holland",
@@ -35,44 +35,44 @@ const schedule = {
         afternoon: "Holland"
     },
     "2023-04-15": {
-      morning: "Out of Office",
-      midday: "Out of Office",
-      afternoon: "Out of Office"
+        morning: "Out of Office",
+        midday: "Out of Office",
+        afternoon: "Out of Office"
     },
     "2023-04-16": {
-      morning: "Out of Office",
-      midday: "Out of Office",
-      afternoon: "Out of Office"
+        morning: "Out of Office",
+        midday: "Out of Office",
+        afternoon: "Out of Office"
     },
     "2023-04-17": {
-      morning: "Holland",
-      midday: "Holland",
-      afternoon: "Holland"
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Holland"
     },
     "2023-04-18": {
-      morning: "Holland",
-      midday: "Holland",
-      afternoon: "Holland"
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Holland"
     },
     "2023-04-19": {
-      morning: "Holland",
-      midday: "Holland",
-      afternoon: "Out of Office"
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Out of Office"
     },
     "2023-04-20": {
-      morning: "Holland",
-      midday: "Holland",
-      afternoon: "Holland"
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Holland"
     },
     "2023-04-21": {
-      morning: "Holland",
-      midday: "Holland",
-      afternoon: "Holland"
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Holland"
     },
     "2023-04-22": {
-      morning: "Out of Office",
-      midday: "Out of Office",
-      afternoon: "Out of Office"
+        morning: "Out of Office",
+        midday: "Out of Office",
+        afternoon: "Out of Office"
     },
     // ... add more dates
 };
