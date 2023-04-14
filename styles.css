@@ -1,153 +1,147 @@
 /* General styles */
 body {
-  font-family: Arial, sans-serif;
-  background-color: #f0f0f0;
-  color: #333;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+	font-family: Arial, sans-serif;
+	background-color: #f0f0f0;
+	color: #333;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
 }
 
 h1 {
-  font-size: 3rem;
-  text-align: center;
-  margin-top: 60px;
-  margin-bottom: 60px;
+	font-size: 3rem;
+	text-align: center;
+	margin-top: 60px;
+	margin-bottom: 60px;
 }
 
 /* Calendar styles */
 #calendar {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
 }
 
 .week-wrapper {
-  margin-bottom: 40px;
+	margin-bottom: 40px;
 }
 
 .week {
-  display: flex;
-  position: relative;
-  border: 1px solid #ccc;
-  padding: 20px;
-  background-color: #fff;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  margin-bottom: 50px;
-  padding-top: 75px;
-  border-top: 1px solid #ccc;
-  border-bottom: 1px solid #ccc;
-  border-radius: 25px;
+	display: flex;
+	position: relative;
+	border: 1px solid #ccc;
+	padding: 20px;
+	background-color: #fff;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+	margin-bottom: 50px;
+	padding-top: 75px;
+	border-radius: 25px;
 }
 
 .week-title {
-  font-weight: bold;
-  text-align: center;
-  margin-bottom: 0px;
-  position: absolute;
-  top: 0px;
-  left: 50%;
-  transform: translateX(-50%);
-  padding: 5px 15px;
-  background-color: #fff;
-  border-radius: 15px;
-  white-space: nowrap;
-  z-index: 1;
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: 0px;
+	position: absolute;
+	top: 0px;
+	left: 50%;
+	transform: translateX(-50%);
+	padding: 5px 15px;
+	background-color: #fff;
+	border-radius: 15px;
+	white-space: nowrap;
+	z-index: 1;
 }
 
 .date-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  width: 110px;
-  text-align: center;
-  border-right: 1px solid #ccc;
-  border-left: 1px solid #ccc;
-  border-top: 1px solid #ccc;
-  border-radius: 8px 8px 8px 8px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 110px;
+	text-align: center;
+	border: 1px solid #ccc;
+	border-radius: 8px;
+  background-color: #f0f0f0;
 }
 
 .date-container:last-child .time-slot:last-child {
-  border-radius: 0 0 8px 0;
+	border-radius: 0 0 8px 0;
 }
 
 .date-container:nth-child(2) .time-slot:last-child {
-  border-radius: 0 0 0 8px;
+	border-radius: 0 0 0 8px;
 }
 
 .day-of-week {
-  margin-bottom: -15px;
+	margin-bottom: -15px;
 }
 
 .date-number {
-  margin-bottom: 20px;
-  text-align: center;
+	margin-bottom: 20px;
+	text-align: center;
 }
 
 .time-slot {
-  padding: 5px;
-  margin-bottom: 0;
-  color: #fff;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  height: 55px;
-  width: 100%;
-  box-sizing: border-box;
-  justify-content: center;
-  border-bottom: 1px solid #ccc; /* Add a border to the bottom */
+	padding: 5px;
+	margin-bottom: 0;
+	color: #fff;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	height: 55px;
+	width: 100%;
+	box-sizing: border-box;
+	justify-content: center;
+	border-bottom: 1px solid #ccc;
 }
 
 .time-title {
-  font-size: 14px;
-
-  color: #000;
-  margin-bottom: 5px;
+	font-size: 12px;
+	color: #000;
+	margin-bottom: 5px;
 }
 
 .location {
-  font-size: 12px;
-    font-weight: bold;
+	font-size: 12px;
+	font-weight: bold;
 }
-
 
 /* Info section styles */
 .info-section-wrapper {
-  max-width: 800px;
-  margin: 40px auto;
-  background-image: linear-gradient(to right, transparent, #ccc, transparent),
-                    linear-gradient(to right, transparent, #ccc, transparent);
-  background-repeat: no-repeat, no-repeat;
-  background-position: top, bottom;
-  background-size: 100% 2px, 100% 2px;
+	max-width: 800px;
+	margin: 40px auto;
+	background-image: linear-gradient(to right, transparent, #ccc, transparent),
+		linear-gradient(to right, transparent, #ccc, transparent);
+	background-repeat: no-repeat, no-repeat;
+	background-position: top, bottom;
+	background-size: 100% 2px, 100% 2px;
 }
 
 .info-section {
-  text-align: center;
-  padding: 20px;
+	text-align: center;
+	padding: 20px;
 }
 
-/* Add a border between the two info-sections */
 .info-section:not(:last-child) {
-  background-image: linear-gradient(to right, transparent, #ccc, transparent);
-  background-repeat: no-repeat;
-  background-position: bottom;
-  background-size: 100% 2px;
+	background-image: linear-gradient(to right, transparent, #ccc, transparent);
+	background-repeat: no-repeat;
+	background-position: bottom;
+	background-size: 100% 2px;
 }
 
 .info-section h2 {
-  font-size: 24px;
-  margin-bottom: 10px; /* Reduce the margin-bottom */
-  color: #333;
+	font-size: 24px;
+	margin-bottom: 10px;
+	color: #333;
 }
 
 .info-section p {
-  font-size: 18px;
-  line-height: 1.6;
-  margin-top: 10px; /* Reduce the margin-top */
-  color: #333;
+	font-size: 18px;
+	line-height: 1.6;
+	margin-top: 10px;
+	color: #333;
 }
 
 .info-section strong {
-  font-weight: bold;
+	font-weight: bold;
 }
