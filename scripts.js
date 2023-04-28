@@ -264,6 +264,7 @@ function displayWeek(weekEl, startDate) {
 
 function displayCalendar() {
     const today = new Date();
+    today.setMinutes(today.getMinutes() - today.getTimezoneOffset()); // Account for timezone difference
     today.setDate(today.getDate() - today.getDay()); // Go back to the previous Sunday
     displayWeek(currentWeek, today);
 
