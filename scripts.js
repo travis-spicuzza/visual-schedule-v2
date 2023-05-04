@@ -50,7 +50,7 @@ const schedule = {
         afternoon: "Holland"
     },
     "2023-04-18": {
-        morning: "Out of Office",
+        morning: "Holland",
         midday: "Holland",
         afternoon: "Holland"
     },
@@ -179,6 +179,41 @@ const schedule = {
         midday: "Out of Office",
         afternoon: "Out of Office"
     },
+    "2023-05-14": {
+        morning: "Out of Office",
+        midday: "Out of Office",
+        afternoon: "Out of Office"
+    },
+    "2023-05-15": {
+        morning: "Summerville",
+        midday: "Summerville",
+        afternoon: "Summerville"
+    },
+    "2023-05-16": {
+        morning: "Summerville",
+        midday: "Summerville",
+        afternoon: "Summerville"
+    },
+    "2023-05-17": {
+        morning: "Out of Office",
+        midday: "Out of Office",
+        afternoon: "Out of Office"
+    },
+    "2023-05-18": {
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Holland"
+    },
+    "2023-05-19": {
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Out of Office"
+    },
+    "2023-05-20": {
+        morning: "Out of Office",
+        midday: "Out of Office",
+        afternoon: "Out of Office"
+    }    
     // ... add more dates
 };
 
@@ -226,6 +261,7 @@ function getColor(status) {
         case "Grand Rapids":
         case "Texas":
         case "Atlanta":
+        case "Summerville":
         case "WFH":
             return "#2196f3"; // Blue
         case "Out of Office":
@@ -264,7 +300,6 @@ function displayWeek(weekEl, startDate) {
 
 function displayCalendar() {
     const today = new Date();
-    today.setMinutes(today.getMinutes() - today.getTimezoneOffset()); // Account for timezone difference
     today.setDate(today.getDate() - today.getDay()); // Go back to the previous Sunday
     displayWeek(currentWeek, today);
 
