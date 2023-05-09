@@ -160,9 +160,9 @@ const schedule = {
         afternoon: "Holland"
     },
     "2023-05-10": {
-        morning: "Holland",
-        midday: "Holland",
-        afternoon: "Out of Office"
+        morning: "WFH",
+        midday: "Grand Rapids",
+        afternoon: "Grand Rapids"
     },
     "2023-05-11": {
         morning: "Holland",
