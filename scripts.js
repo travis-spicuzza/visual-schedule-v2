@@ -213,7 +213,43 @@ const schedule = {
         morning: "Out of Office",
         midday: "Out of Office",
         afternoon: "Out of Office"
-    }    
+    },
+    "2023-05-21": {
+        morning: "Out of Office",
+        midday: "Out of Office",
+        afternoon: "Out of Office"
+    },
+    "2023-05-22": {
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Holland"
+    },
+    "2023-05-23": {
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Holland"
+    },
+    "2023-05-24": {
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Out of Office"
+    },
+    "2023-05-25": {
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Holland"
+    },
+    "2023-05-26": {
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Out of Office"
+    },
+    "2023-05-27": {
+        morning: "Out of Office",
+        midday: "Out of Office",
+        afternoon: "Out of Office"
+    }
+
     // ... add more dates
 };
 
