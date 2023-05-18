@@ -202,7 +202,7 @@ const schedule = {
     "2023-05-18": {
         morning: "Traveling",
         midday: "Traveling",
-        afternoon: "Remote"
+        afternoon: "Traveling"
     },
     "2023-05-19": {
         morning: "Holland",
