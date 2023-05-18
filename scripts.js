@@ -200,9 +200,9 @@ const schedule = {
         afternoon: "Out of Office"
     },
     "2023-05-18": {
-        morning: "Out of Office",
-        midday: "Holland",
-        afternoon: "Holland"
+        morning: "Traveling",
+        midday: "Traveling",
+        afternoon: "Remote"
     },
     "2023-05-19": {
         morning: "Holland",
@@ -302,6 +302,7 @@ function getColor(status) {
             return "#2196f3"; // Blue
         case "Out of Office":
         case "Vacation":
+        case "Traveling":
             return "#f44336"; // Red
         default:
             return "#e0e0e0"; // Grey
