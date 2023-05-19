@@ -200,9 +200,9 @@ const schedule = {
         afternoon: "Out of Office"
     },
     "2023-05-18": {
-        morning: "Traveling",
-        midday: "Traveling",
-        afternoon: "Traveling"
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Holland"
     },
     "2023-05-19": {
         morning: "Holland",
@@ -225,30 +225,66 @@ const schedule = {
         afternoon: "Holland"
     },
     "2023-05-23": {
-        morning: "Holland",
-        midday: "Holland",
-        afternoon: "Holland"
+        morning: "Remote",
+        midday: "Traveling",
+        afternoon: "Traveling"
     },
     "2023-05-24": {
-        morning: "Holland",
-        midday: "Holland",
-        afternoon: "Out of Office"
+        morning: "Atlanta",
+        midday: "Atlanta",
+        afternoon: "Atlanta"
     },
     "2023-05-25": {
-        morning: "Holland",
-        midday: "Holland",
-        afternoon: "Holland"
+        morning: "Atlanta",
+        midday: "Atlanta",
+        afternoon: "Atlanta"
     },
     "2023-05-26": {
-        morning: "Holland",
-        midday: "Holland",
+        morning: "Remote",
+        midday: "Remote",
         afternoon: "Out of Office"
     },
     "2023-05-27": {
         morning: "Out of Office",
         midday: "Out of Office",
         afternoon: "Out of Office"
-    }
+    },
+    "2023-05-28": {
+        morning: "Out of Office",
+        midday: "Out of Office",
+        afternoon: "Out of Office"
+    },
+    "2023-05-29": {
+        morning: "Out of Office",
+        midday: "Out of Office",
+        afternoon: "Out of Office"
+    },
+    "2023-05-30": {
+        morning: "Atlanta",
+        midday: "Atlanta",
+        afternoon: "Atlanta"
+    },
+    "2023-05-31": {
+        morning: "Atlanta",
+        midday: "Atlanta",
+        afternoon: "Atlanta"
+    },
+    "2023-06-01": {
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Holland"
+    },
+    "2023-06-02": {
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Out of Office"
+    },
+    "2023-06-03": {
+        morning: "Out of Office",
+        midday: "Out of Office",
+        afternoon: "Out of Office"
+    },
+
 
     // ... add more dates
 };
