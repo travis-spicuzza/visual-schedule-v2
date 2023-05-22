@@ -225,7 +225,7 @@ const schedule = {
         afternoon: "Holland"
     },
     "2023-05-23": {
-        morning: "Remote",
+        morning: "Out of Office",
         midday: "Traveling",
         afternoon: "Traveling"
     },
@@ -240,8 +240,8 @@ const schedule = {
         afternoon: "Atlanta"
     },
     "2023-05-26": {
-        morning: "Remote",
-        midday: "Remote",
+        morning: "Out of Office",
+        midday: "Out of Office",
         afternoon: "Out of Office"
     },
     "2023-05-27": {
@@ -257,7 +257,7 @@ const schedule = {
     "2023-05-29": {
         morning: "Out of Office",
         midday: "Out of Office",
-        afternoon: "Out of Office"
+        afternoon: "Traveling"
     },
     "2023-05-30": {
         morning: "Atlanta",
@@ -270,13 +270,13 @@ const schedule = {
         afternoon: "Atlanta"
     },
     "2023-06-01": {
-        morning: "Holland",
-        midday: "Holland",
-        afternoon: "Holland"
+        morning: "Atlanta",
+        midday: "Atlanta",
+        afternoon: "Atlanta"
     },
     "2023-06-02": {
-        morning: "Holland",
-        midday: "Holland",
+        morning: "Remote",
+        midday: "Remote",
         afternoon: "Out of Office"
     },
     "2023-06-03": {
