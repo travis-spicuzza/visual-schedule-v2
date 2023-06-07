@@ -301,7 +301,7 @@ const schedule = {
 },
 "2023-06-07": {
     morning: "Grand Rapids",
-    midday: "Holland",
+    midday: "Grand Rapids",
     afternoon: "Out of Office"
 },
 "2023-06-08": {
