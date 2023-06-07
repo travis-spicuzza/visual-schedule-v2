@@ -347,13 +347,49 @@ const schedule = {
 "2023-06-16": {
     morning: "Holland",
     midday: "Holland",
-    afternoon: "Out of Office"
+    afternoon: "Holland"
 },
 "2023-06-17": {
     morning: "Out of Office",
     midday: "Out of Office",
     afternoon: "Out of Office"
 },
+    "2023-06-18": {
+    morning: "Out of Office",
+    midday: "Out of Office",
+    afternoon: "Out of Office"
+},
+"2023-06-19": {
+    morning: "Holland",
+    midday: "Holland",
+    afternoon: "Holland"
+},
+"2023-06-20": {
+    morning: "Holland",
+    midday: "Holland",
+    afternoon: "Holland"
+},
+"2023-06-21": {
+    morning: "Holland",
+    midday: "Holland",
+    afternoon: "Out of Office"
+},
+"2023-06-22": {
+    morning: "Holland",
+    midday: "Holland",
+    afternoon: "Holland"
+},
+"2023-06-23": {
+    morning: "Holland",
+    midday: "Holland",
+    afternoon: "Holland"
+},
+"2023-06-24": {
+    morning: "Out of Office",
+    midday: "Out of Office",
+    afternoon: "Out of Office"
+},
+
 
 
 
