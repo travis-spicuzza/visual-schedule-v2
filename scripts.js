@@ -360,29 +360,29 @@ const schedule = {
     afternoon: "Out of Office"
 },
 "2023-06-19": {
-    morning: "Holland",
-    midday: "Holland",
-    afternoon: "Holland"
+    morning: "Milwaukee",
+    midday: "Milwaukee",
+    afternoon: "Milwaukee"
 },
 "2023-06-20": {
-    morning: "Holland",
-    midday: "Holland",
-    afternoon: "Holland"
+    morning: "Milwaukee",
+    midday: "Milwaukee",
+    afternoon: "Milwaukee"
 },
 "2023-06-21": {
-    morning: "Holland",
-    midday: "Holland",
-    afternoon: "Out of Office"
+    morning: "Milwaukee",
+    midday: "Milwaukee",
+    afternoon: "Milwaukee"
 },
 "2023-06-22": {
-    morning: "Holland",
-    midday: "Holland",
-    afternoon: "Holland"
+    morning: "Milwaukee",
+    midday: "Milwaukee",
+    afternoon: "Milwaukee"
 },
 "2023-06-23": {
-    morning: "Holland",
-    midday: "Holland",
-    afternoon: "Holland"
+    morning: "Traveling",
+    midday: "Traveling",
+    afternoon: "Traveling"
 },
 "2023-06-24": {
     morning: "Out of Office",
@@ -442,6 +442,7 @@ function getColor(status) {
         case "Atlanta":
         case "Summerville":
         case "WFH":
+        case "Milwaukee":
             return "#2196f3"; // Blue
         case "Out of Office":
         case "Vacation":
