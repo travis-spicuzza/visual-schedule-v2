@@ -285,218 +285,251 @@ const schedule = {
         afternoon: "Out of Office"
     },
     "2023-06-04": {
-    morning: "Out of Office",
-    midday: "Out of Office",
-    afternoon: "Out of Office"
-},
-"2023-06-05": {
-    morning: "Holland",
-    midday: "Holland",
-    afternoon: "Holland"
-},
-"2023-06-06": {
-    morning: "Holland",
-    midday: "Holland",
-    afternoon: "Grand Rapids"
-},
-"2023-06-07": {
-    morning: "Grand Rapids",
-    midday: "Grand Rapids",
-    afternoon: "Out of Office"
-},
-"2023-06-08": {
-    morning: "Holland",
-    midday: "Holland",
-    afternoon: "Holland"
-},
-"2023-06-09": {
-    morning: "Remote",
-    midday: "Remote",
-    afternoon: "Out of Office"
-},
-"2023-06-10": {
-    morning: "Out of Office",
-    midday: "Out of Office",
-    afternoon: "Out of Office"
-},
+        morning: "Out of Office",
+        midday: "Out of Office",
+        afternoon: "Out of Office"
+    },
+    "2023-06-05": {
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Holland"
+    },
+    "2023-06-06": {
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Grand Rapids"
+    },
+    "2023-06-07": {
+        morning: "Grand Rapids",
+        midday: "Grand Rapids",
+        afternoon: "Out of Office"
+    },
+    "2023-06-08": {
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Holland"
+    },
+    "2023-06-09": {
+        morning: "Remote",
+        midday: "Remote",
+        afternoon: "Out of Office"
+    },
+    "2023-06-10": {
+        morning: "Out of Office",
+        midday: "Out of Office",
+        afternoon: "Out of Office"
+    },
     "2023-06-11": {
-    morning: "Out of Office",
-    midday: "Out of Office",
-    afternoon: "Out of Office"
-},
-"2023-06-12": {
-    morning: "Grand Rapids",
-    midday: "Grand Rapids",
-    afternoon: "Grand Rapids"
-},
-"2023-06-13": {
-    morning: "Grand Rapids",
-    midday: "Grand Rapids",
-    afternoon: "Grand Rapids"
-},
-"2023-06-14": {
-    morning: "Holland",
-    midday: "Holland",
-    afternoon: "Out of Office"
-},
-"2023-06-15": {
-    morning: "Holland",
-    midday: "Holland",
-    afternoon: "Holland"
-},
-"2023-06-16": {
-    morning: "Holland",
-    midday: "Holland",
-    afternoon: "Holland"
-},
-"2023-06-17": {
-    morning: "Out of Office",
-    midday: "Out of Office",
-    afternoon: "Out of Office"
-},
+        morning: "Out of Office",
+        midday: "Out of Office",
+        afternoon: "Out of Office"
+    },
+    "2023-06-12": {
+        morning: "Grand Rapids",
+        midday: "Grand Rapids",
+        afternoon: "Grand Rapids"
+    },
+    "2023-06-13": {
+        morning: "Grand Rapids",
+        midday: "Grand Rapids",
+        afternoon: "Grand Rapids"
+    },
+    "2023-06-14": {
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Out of Office"
+    },
+    "2023-06-15": {
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Holland"
+    },
+    "2023-06-16": {
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Holland"
+    },
+    "2023-06-17": {
+        morning: "Out of Office",
+        midday: "Out of Office",
+        afternoon: "Out of Office"
+    },
     "2023-06-18": {
-    morning: "Out of Office",
-    midday: "Out of Office",
-    afternoon: "Out of Office"
-},
-"2023-06-19": {
-    morning: "Milwaukee",
-    midday: "Milwaukee",
-    afternoon: "Milwaukee"
-},
-"2023-06-20": {
-    morning: "Milwaukee",
-    midday: "Milwaukee",
-    afternoon: "Milwaukee"
-},
-"2023-06-21": {
-    morning: "Milwaukee",
-    midday: "Milwaukee",
-    afternoon: "Milwaukee"
-},
-"2023-06-22": {
-    morning: "Milwaukee",
-    midday: "Milwaukee",
-    afternoon: "Milwaukee"
-},
-"2023-06-23": {
-    morning: "Traveling",
-    midday: "Traveling",
-    afternoon: "Traveling"
-},
-"2023-06-24": {
-    morning: "Out of Office",
-    midday: "Out of Office",
-    afternoon: "Out of Office"
-},
+        morning: "Out of Office",
+        midday: "Out of Office",
+        afternoon: "Out of Office"
+    },
+    "2023-06-19": {
+        morning: "Milwaukee",
+        midday: "Milwaukee",
+        afternoon: "Milwaukee"
+    },
+    "2023-06-20": {
+        morning: "Milwaukee",
+        midday: "Milwaukee",
+        afternoon: "Milwaukee"
+    },
+    "2023-06-21": {
+        morning: "Milwaukee",
+        midday: "Milwaukee",
+        afternoon: "Milwaukee"
+    },
+    "2023-06-22": {
+        morning: "Milwaukee",
+        midday: "Milwaukee",
+        afternoon: "Milwaukee"
+    },
+    "2023-06-23": {
+        morning: "Traveling",
+        midday: "Traveling",
+        afternoon: "Traveling"
+    },
+    "2023-06-24": {
+        morning: "Out of Office",
+        midday: "Out of Office",
+        afternoon: "Out of Office"
+    },
     "2023-06-25": {
-    morning: "Out of Office",
-    midday: "Out of Office",
-    afternoon: "Out of Office"
-},
-"2023-06-26": {
-    morning: "Holland",
-    midday: "Holland",
-    afternoon: "Holland"
-},
-"2023-06-27": {
-    morning: "Grand Rapids",
-    midday: "Grand Rapids",
-    afternoon: "Grand Rapids"
-},
-"2023-06-28": {
-    morning: "Holland",
-    midday: "Holland",
-    afternoon: "Out of Office"
-},
-"2023-06-29": {
-    morning: "Holland",
-    midday: "Holland",
-    afternoon: "Holland"
-},
-"2023-06-30": {
-    morning: "Out of Office",
-    midday: "Out of Office",
-    afternoon: "Out of Office"
-},
-"2023-07-01": {
-    morning: "Out of Office",
-    midday: "Out of Office",
-    afternoon: "Out of Office"
-},
+        morning: "Out of Office",
+        midday: "Out of Office",
+        afternoon: "Out of Office"
+    },
+    "2023-06-26": {
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Holland"
+    },
+    "2023-06-27": {
+        morning: "Grand Rapids",
+        midday: "Grand Rapids",
+        afternoon: "Grand Rapids"
+    },
+    "2023-06-28": {
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Out of Office"
+    },
+    "2023-06-29": {
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Holland"
+    },
+    "2023-06-30": {
+        morning: "Out of Office",
+        midday: "Out of Office",
+        afternoon: "Out of Office"
+    },
+    "2023-07-01": {
+        morning: "Out of Office",
+        midday: "Out of Office",
+        afternoon: "Out of Office"
+    },
     "2023-07-02": {
-    morning: "Out of Office",
-    midday: "Out of Office",
-    afternoon: "Out of Office"
-},
-"2023-07-03": {
-    morning: "Out of Office",
-    midday: "Out of Office",
-    afternoon: "Out of Office"
-},
-"2023-07-04": {
-    morning: "Out of Office",
-    midday: "Out of Office",
-    afternoon: "Out of Office"
-},
-"2023-07-05": {
-    morning: "Holland",
-    midday: "Holland",
-    afternoon: "Holland"
-},
-"2023-07-06": {
-    morning: "Holland",
-    midday: "Holland",
-    afternoon: "Holland"
-},
-"2023-07-07": {
-    morning: "Holland",
-    midday: "Holland",
-    afternoon: "Out of Office"
-},
-"2023-07-08": {
-    morning: "Out of Office",
-    midday: "Out of Office",
-    afternoon: "Out of Office"
-},
+        morning: "Out of Office",
+        midday: "Out of Office",
+        afternoon: "Out of Office"
+    },
+    "2023-07-03": {
+        morning: "Out of Office",
+        midday: "Out of Office",
+        afternoon: "Out of Office"
+    },
+    "2023-07-04": {
+        morning: "Out of Office",
+        midday: "Out of Office",
+        afternoon: "Out of Office"
+    },
+    "2023-07-05": {
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Holland"
+    },
+    "2023-07-06": {
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Holland"
+    },
+    "2023-07-07": {
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Out of Office"
+    },
+    "2023-07-08": {
+        morning: "Out of Office",
+        midday: "Out of Office",
+        afternoon: "Out of Office"
+    },
     "2023-07-09": {
-    morning: "Out of Office",
-    midday: "Out of Office",
-    afternoon: "Out of Office"
-},
-"2023-07-10": {
-    morning: "Out of Office",
-    midday: "Holland",
-    afternoon: "Holland"
-},
-"2023-07-11": {
-    morning: "Holland",
-    midday: "Holland",
-    afternoon: "Holland"
-},
-"2023-07-12": {
-    morning: "Holland",
-    midday: "Holland",
-    afternoon: "Out of Office"
-},
-"2023-07-13": {
-    morning: "Holland",
-    midday: "Holland",
-    afternoon: "Holland"
-},
-"2023-07-14": {
-    morning: "Out of Office",
-    midday: "Out of Office",
-    afternoon: "Out of Office"
-},
-"2023-07-15": {
-    morning: "Out of Office",
-    midday: "Out of Office",
-    afternoon: "Out of Office"
-},
+        morning: "Out of Office",
+        midday: "Out of Office",
+        afternoon: "Out of Office"
+    },
+    "2023-07-10": {
+        morning: "Out of Office",
+        midday: "Holland",
+        afternoon: "Holland"
+    },
+    "2023-07-11": {
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Holland"
+    },
+    "2023-07-12": {
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Out of Office"
+    },
+    "2023-07-13": {
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Holland"
+    },
+    "2023-07-14": {
+        morning: "Out of Office",
+        midday: "Out of Office",
+        afternoon: "Out of Office"
+    },
+    "2023-07-15": {
+        morning: "Out of Office",
+        midday: "Out of Office",
+        afternoon: "Out of Office"
+    },
 
-    
-
+    "2023-07-16": {
+        morning: "Out of Office",
+        midday: "Out of Office",
+        afternoon: "Out of Office"
+    },
+    "2023-07-17": {
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Holland"
+    },
+    "2023-07-18": {
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Holland"
+    },
+    "2023-07-19": {
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Out of Office"
+    },
+    "2023-07-20": {
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Holland"
+    },
+    "2023-07-21": {
+        morning: "Holland",
+        midday: "Holland",
+        afternoon: "Holland"
+    },
+    "2023-07-22": {
+        morning: "Out of Office",
+        midday: "Out of Office",
+        afternoon: "Out of Office"
+    },
 
 
 
