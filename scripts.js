@@ -716,119 +716,119 @@ midday: "Holland",
 afternoon: "Holland"
 },
 "2023-08-29": {
-morning: "Out of Office",
-midday: "Out of Office",
-afternoon: "Out of Office"
+morning: "Vacation",
+midday: "Vacation",
+afternoon: "Vacation"
 },
 "2023-08-30": {
-morning: "Out of Office",
-midday: "Out of Office",
-afternoon: "Out of Office"
+morning: "Vacation",
+midday: "Vacation",
+afternoon: "Vacation"
 },
 "2023-08-31": {
-morning: "Out of Office",
-midday: "Out of Office",
-afternoon: "Out of Office"
+morning: "Vacation",
+midday: "Vacation",
+afternoon: "Vacation"
 },
 "2023-09-01": {
-morning: "Out of Office",
-midday: "Out of Office",
-afternoon: "Out of Office"
+morning: "Vacation",
+midday: "Vacation",
+afternoon: "Vacation"
 },
 "2023-09-02": {
-morning: "Out of Office",
-midday: "Out of Office",
-afternoon: "Out of Office"
+morning: "Vacation",
+midday: "Vacation",
+afternoon: "Vacation"
 },
 "2023-09-03": {
-morning: "Out of Office",
-midday: "Out of Office",
-afternoon: "Out of Office"
+morning: "Vacation",
+midday: "Vacation",
+afternoon: "Vacation"
 },
 "2023-09-04": {
-morning: "Out of Office",
-midday: "Out of Office",
-afternoon: "Out of Office"
+morning: "Vacation",
+midday: "Vacation",
+afternoon: "Vacation"
 },
 "2023-09-05": {
-morning: "Out of Office",
-midday: "Out of Office",
-afternoon: "Out of Office"
+morning: "Vacation",
+midday: "Vacation",
+afternoon: "Vacation"
 },
 "2023-09-06": {
-morning: "Out of Office",
-midday: "Out of Office",
-afternoon: "Out of Office"
+morning: "Vacation",
+midday: "Vacation",
+afternoon: "Vacation"
 },
 "2023-09-07": {
-morning: "Out of Office",
-midday: "Out of Office",
-afternoon: "Out of Office"
+morning: "Vacation",
+midday: "Vacation",
+afternoon: "Vacation"
 },
 "2023-09-08": {
-morning: "Out of Office",
-midday: "Out of Office",
-afternoon: "Out of Office"
+morning: "Vacation",
+midday: "Vacation",
+afternoon: "Vacation"
 },
 "2023-09-09": {
-morning: "Out of Office",
-midday: "Out of Office",
-afternoon: "Out of Office"
+morning: "Vacation",
+midday: "Vacation",
+afternoon: "Vacation"
 },
     "2023-09-10": {
-morning: "Out of Office",
-midday: "Out of Office",
-afternoon: "Out of Office"
+morning: "Vacation",
+midday: "Vacation",
+afternoon: "Vacation"
 },
 "2023-09-11": {
-morning: "Out of Office",
-midday: "Out of Office",
-afternoon: "Out of Office"
+morning: "Vacation",
+midday: "Vacation",
+afternoon: "Vacation"
 },
 "2023-09-12": {
-morning: "Out of Office",
-midday: "Out of Office",
-afternoon: "Out of Office"
+morning: "Vacation",
+midday: "Vacation",
+afternoon: "Vacation"
 },
 "2023-09-13": {
-morning: "Out of Office",
-midday: "Out of Office",
-afternoon: "Out of Office"
+morning: "Vacation",
+midday: "Vacation",
+afternoon: "Vacation"
 },
 "2023-09-14": {
-morning: "Out of Office",
-midday: "Out of Office",
-afternoon: "Out of Office"
+morning: "Vacation",
+midday: "Vacation",
+afternoon: "Vacation"
 },
 "2023-09-15": {
-morning: "Out of Office",
-midday: "Out of Office",
-afternoon: "Out of Office"
+morning: "Vacation",
+midday: "Vacation",
+afternoon: "Vacation"
 },
 "2023-09-16": {
-morning: "Out of Office",
-midday: "Out of Office",
-afternoon: "Out of Office"
+morning: "Vacation",
+midday: "Vacation",
+afternoon: "Vacation"
 },
     "2023-09-17": {
-morning: "Out of Office",
-midday: "Out of Office",
-afternoon: "Out of Office"
+morning: "Vacation",
+midday: "Vacation",
+afternoon: "Vacation"
 },
 "2023-09-18": {
-morning: "Out of Office",
-midday: "Out of Office",
-afternoon: "Out of Office"
+morning: "Vacation",
+midday: "Vacation",
+afternoon: "Vacation"
 },
 "2023-09-19": {
-morning: "Holland",
-midday: "Holland",
-afternoon: "Out of Office"
+morning: "Vacation",
+midday: "Vacation",
+afternoon: "Vacation"
 },
 "2023-09-20": {
-morning: "Out of Office",
-midday: "Out of Office",
-afternoon: "Out of Office"
+morning: "Vacation",
+midday: "Vacation",
+afternoon: "Vacation"
 },
 "2023-09-21": {
 morning: "Holland",
