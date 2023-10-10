@@ -915,6 +915,76 @@ morning: "Out of Office",
 midday: "Out of Office",
 afternoon: "Out of Office"
 },
+"2023-10-08": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2023-10-09": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2023-10-10": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2023-10-11": {
+morning: "Remote",
+midday: "Remote",
+afternoon: "Out of Office"
+},
+"2023-10-12": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2023-10-13": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2023-10-14": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2023-10-15": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2023-10-16": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2023-10-17": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2023-10-18": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Out of Office"
+},
+"2023-10-19": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2023-10-20": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2023-10-21": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
 
     
 
