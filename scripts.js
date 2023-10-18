@@ -985,7 +985,41 @@ morning: "Out of Office",
 midday: "Out of Office",
 afternoon: "Out of Office"
 },
-
+"2023-10-22": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2023-10-23": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2023-10-24": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2023-10-25": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Out of Office"
+},
+"2023-10-26": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2023-10-27": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2023-10-28": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
     
 
     // ... add more dates
