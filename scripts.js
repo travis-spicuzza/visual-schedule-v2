@@ -976,9 +976,9 @@ midday: "Holland",
 afternoon: "Holland"
 },
 "2023-10-20": {
-morning: "Holland",
-midday: "Holland",
-afternoon: "Holland"
+morning: "Grand Rapids",
+midday: "Grand Rapids",
+afternoon: "Out of Office"
 },
 "2023-10-21": {
 morning: "Out of Office",
