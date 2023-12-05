@@ -1171,8 +1171,8 @@ afternoon: "Out of Office"
     afternoon: "Holland"
 },
 "2023-12-05": {
-    morning: "Holland",
-    midday: "Holland",
+    morning: "Out of Office",
+    midday: "Remote",
     afternoon: "Holland"
 },
 "2023-12-06": {
