@@ -1230,6 +1230,77 @@ afternoon: "Out of Office"
     midday: "Out of Office",
     afternoon: "Out of Office"
 },
+    "2023-12-17": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2023-12-18": {
+morning: "Grand Rapids",
+midday: "Grand Rapids",
+afternoon: "Grand Rapids"
+},
+"2023-12-19": {
+morning: "Grand Rapids",
+midday: "Grand Rapids",
+afternoon: "Grand Rapids"
+},
+"2023-12-20": {
+morning: "Grand Rapids",
+midday: "Grand Rapids",
+afternoon: "Grand Rapids"
+},
+"2023-12-21": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2023-12-22": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2023-12-23": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+
+"2023-12-24": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2023-12-25": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2023-12-26": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2023-12-27": {
+morning: "Grand Rapids",
+midday: "Grand Rapids",
+afternoon: "Grand Rapids"
+},
+"2023-12-28": {
+morning: "Grand Rapids",
+midday: "Grand Rapids",
+afternoon: "Grand Rapids"
+},
+"2023-12-29": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2023-12-30": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
 
 
 
