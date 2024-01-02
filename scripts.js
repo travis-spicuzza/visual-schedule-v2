@@ -1302,6 +1302,111 @@ midday: "Out of Office",
 afternoon: "Out of Office"
 },
 
+"2023-12-31": {
+morning: "Out of Office",
+midday: "Remote",
+afternoon: "Out of Office"
+},
+"2024-01-01": {
+morning: "Out of Office",
+midday: "Remote",
+afternoon: "Remote"
+},
+"2024-01-02": {
+morning: "Grand Rapids",
+midday: "Grand Rapids",
+afternoon: "Grand Rapids"
+},
+"2024-01-03": {
+morning: "Out of Office",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2024-01-04": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2024-01-05": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2024-01-06": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2024-01-07": {
+morning: "Remote",
+midday: "Remote",
+afternoon: "Remote"
+},
+"2024-01-08": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2024-01-09": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2024-01-10": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2024-01-11": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2024-01-12": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2024-01-13": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2024-01-14": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2024-01-15": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2024-01-16": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2024-01-17": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2024-01-18": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2024-01-19": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2024-01-20": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
 
 
     
