@@ -1338,9 +1338,9 @@ midday: "Out of Office",
 afternoon: "Out of Office"
 },
 "2024-01-07": {
-morning: "Remote",
-midday: "Remote",
-afternoon: "Remote"
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
 },
 "2024-01-08": {
 morning: "Holland",
