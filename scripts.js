@@ -1383,7 +1383,7 @@ midday: "Out of Office",
 afternoon: "Out of Office"
 },
 "2024-01-16": {
-morning: "Holland",
+morning: "Out of Office",
 midday: "Holland",
 afternoon: "Holland"
 },
