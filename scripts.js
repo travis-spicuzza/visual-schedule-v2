@@ -1545,8 +1545,8 @@ afternoon: "Out of Office"
 "2024-02-17": {
     morning: "Out of Office",
     midday: "Out of Office",
-    afternoon: "Out of Office
-
+    afternoon: "Holland"
+},
 
 
     
