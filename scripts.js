@@ -140,9 +140,9 @@ afternoon: "Out of Office"
     afternoon: "Holland"
 },
 "2024-02-07": {
-    morning: "Holland",
-    midday: "Holland",
-    afternoon: "Holland"
+    morning: "Grand Rapids",
+    midday: "Grand Rapids",
+    afternoon: "Grand Rapids"
 },
 "2024-02-08": {
     morning: "Grand Rapids",
@@ -192,7 +192,7 @@ afternoon: "Out of Office"
 "2024-02-17": {
     morning: "Out of Office",
     midday: "Out of Office",
-    afternoon: "Holland"
+    afternoon: "Out of Office"
 },
 
 
