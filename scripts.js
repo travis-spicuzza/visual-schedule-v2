@@ -235,7 +235,7 @@ afternoon: "Out of Office"
     afternoon: "Holland"
 },
 "2024-02-26": {
-    morning: "Holland",
+    morning: "Grand Rapids",
     midday: "Holland",
     afternoon: "Holland"
 },
