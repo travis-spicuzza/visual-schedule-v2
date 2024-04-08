@@ -445,7 +445,7 @@ afternoon: "Out of Office"
         afternoon: "Out of Office"
     },
     "2024-04-08": {
-        morning: "Holland",
+        morning: "Remote",
         midday: "Holland",
         afternoon: "Holland"
     },
