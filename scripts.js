@@ -166,6 +166,146 @@ const schedule = {
         midday: "Out of Office",
         afternoon: "Out of Office"
     },
+      "2024-05-13": {
+    morning: "Holland",
+    midday: "Holland",
+    afternoon: "Holland"
+  },
+  "2024-05-14": {
+    morning: "Holland",
+    midday: "Holland",
+    afternoon: "Holland"
+  },
+  "2024-05-15": {
+    morning: "Out of Office",
+    midday: "Out of Office",
+    afternoon: "Out of Office"
+  },
+  "2024-05-16": {
+    morning: "Out of Office",
+    midday: "Out of Office",
+    afternoon: "Out of Office"
+  },
+  "2024-05-17": {
+    morning: "Holland",
+    midday: "Holland",
+    afternoon: "Holland"
+  },
+  "2024-05-18": {
+    morning: "Out of Office",
+    midday: "Out of Office",
+    afternoon: "Out of Office"
+  },
+  "2024-05-19": {
+    morning: "Out of Office",
+    midday: "Out of Office",
+    afternoon: "Out of Office"
+  },
+  "2024-05-20": {
+    morning: "Holland",
+    midday: "Holland",
+    afternoon: "Holland"
+  },
+  "2024-05-21": {
+    morning: "Holland",
+    midday: "Holland",
+    afternoon: "Holland"
+  },
+  "2024-05-22": {
+    morning: "Holland",
+    midday: "Holland",
+    afternoon: "Out of Office"
+  },
+  "2024-05-23": {
+    morning: "Holland",
+    midday: "Holland",
+    afternoon: "Holland"
+  },
+  "2024-05-24": {
+    morning: "Out of Office",
+    midday: "Out of Office",
+    afternoon: "Out of Office"
+  },
+  "2024-05-25": {
+    morning: "Out of Office",
+    midday: "Out of Office",
+    afternoon: "Out of Office"
+  },
+  "2024-05-26": {
+    morning: "Out of Office",
+    midday: "Out of Office",
+    afternoon: "Out of Office"
+  },
+  "2024-05-27": {
+    morning: "Out of Office",
+    midday: "Out of Office",
+    afternoon: "Out of Office"
+  },
+  "2024-05-28": {
+    morning: "Out of Office",
+    midday: "Out of Office",
+    afternoon: "Out of Office"
+  },
+  "2024-05-29": {
+    morning: "Out of Office",
+    midday: "Out of Office",
+    afternoon: "Holland"
+  },
+  "2024-05-30": {
+    morning: "Out of Office",
+    midday: "Holland",
+    afternoon: "Holland"
+  },
+  "2024-05-31": {
+    morning: "Holland",
+    midday: "Holland",
+    afternoon: "Holland"
+  },
+  "2024-06-01": {
+    morning: "Holland",
+    midday: "Holland",
+    afternoon: "Holland"
+  },
+  "2024-06-02": {
+    morning: "Out of Office",
+    midday: "Out of Office",
+    afternoon: "Out of Office"
+  },
+  "2024-06-03": {
+    morning: "Holland",
+    midday: "Holland",
+    afternoon: "Holland"
+  },
+  "2024-06-04": {
+    morning: "Holland",
+    midday: "Holland",
+    afternoon: "Holland"
+  },
+  "2024-06-05": {
+    morning: "Holland",
+    midday: "Holland",
+    afternoon: "Out of Office"
+  },
+  "2024-06-06": {
+    morning: "Holland",
+    midday: "Holland",
+    afternoon: "Holland"
+  },
+  "2024-06-07": {
+    morning: "Out of Office",
+    midday: "Out of Office",
+    afternoon: "Out of Office"
+  },
+  "2024-06-08": {
+    morning: "Out of Office",
+    midday: "Out of Office",
+    afternoon: "Out of Office"
+  },
+  "2024-06-09": {
+    morning: "Out of Office",
+    midday: "Out of Office",
+    afternoon: "Out of Office"
+  }
     
 
     // ... add more dates
