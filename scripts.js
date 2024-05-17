@@ -187,7 +187,7 @@ const schedule = {
     afternoon: "Out of Office"
   },
   "2024-05-17": {
-    morning: "Holland",
+    morning: "Out of Office",
     midday: "Holland",
     afternoon: "Holland"
   },
