@@ -248,13 +248,13 @@ const schedule = {
   },
   "2024-05-29": {
     morning: "Out of Office",
-    midday: "Out of Office",
+    midday: "Holland",
     afternoon: "Holland"
   },
   "2024-05-30": {
-    morning: "Out of Office",
-    midday: "Holland",
-    afternoon: "Holland"
+    morning: "Grand Rapids",
+    midday: "Grand Rapids",
+    afternoon: "Grand Rapids"
   },
   "2024-05-31": {
     morning: "Holland",
@@ -262,9 +262,9 @@ const schedule = {
     afternoon: "Holland"
   },
   "2024-06-01": {
-    morning: "Holland",
-    midday: "Holland",
-    afternoon: "Holland"
+    morning: "Out of Office",
+    midday: "Out of Office",
+    afternoon: "Out of Office"
   },
   "2024-06-02": {
     morning: "Out of Office",
@@ -292,9 +292,9 @@ const schedule = {
     afternoon: "Holland"
   },
   "2024-06-07": {
-    morning: "Out of Office",
-    midday: "Out of Office",
-    afternoon: "Out of Office"
+    morning: "Holland",
+    midday: "Holland",
+    afternoon: "Holland"
   },
   "2024-06-08": {
     morning: "Out of Office",
