@@ -305,7 +305,143 @@ const schedule = {
     morning: "Out of Office",
     midday: "Out of Office",
     afternoon: "Out of Office"
-  }
+  },
+    "2024-06-10": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2024-06-11": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2024-06-12": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Out of Office"
+},
+"2024-06-13": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Out of Office"
+},
+"2024-06-14": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2024-06-15": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2024-06-16": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2024-06-17": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2024-06-18": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2024-06-19": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Out of Office"
+},
+"2024-06-20": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2024-06-21": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2024-06-22": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2024-06-23": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2024-06-24": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2024-06-25": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2024-06-26": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2024-06-27": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2024-06-28": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2024-06-29": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+    {
+"2024-06-30": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2024-07-01": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2024-07-02": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2024-07-03": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Out of Office"
+},
+"2024-07-04": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2024-07-05": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2024-07-06": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+}
     
 
     // ... add more dates
