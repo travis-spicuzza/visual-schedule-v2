@@ -406,7 +406,6 @@ morning: "Out of Office",
 midday: "Out of Office",
 afternoon: "Out of Office"
 },
-    {
 "2024-06-30": {
 morning: "Out of Office",
 midday: "Out of Office",
