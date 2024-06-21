@@ -119,7 +119,7 @@ h1 {
 
 .info-section {
 	text-align: center;
-	padding: 20px;
+	padding: 10px;
 }
 
 .info-section:not(:last-child) {
