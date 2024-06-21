@@ -109,7 +109,7 @@ h1 {
 /* Info section styles */
 .info-section-wrapper {
 	max-width: 800px;
-	margin: 40px auto;
+	margin: 30px auto;
 	background-image: linear-gradient(to right, transparent, #ccc, transparent),
 		linear-gradient(to right, transparent, #ccc, transparent);
 	background-repeat: no-repeat, no-repeat;
