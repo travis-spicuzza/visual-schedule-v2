@@ -1,5 +1,6 @@
 const currentWeek = document.getElementById("currentWeek");
 const nextWeek = document.getElementById("nextWeek");
+const thirdWeek = document.getElementById("thirdWeek");
 
 // Define your schedule here in the format YYYY-MM-DD
 const schedule = {
@@ -427,9 +428,9 @@ midday: "Holland",
 afternoon: "Out of Office"
 },
 "2024-07-04": {
-morning: "Holland",
-midday: "Holland",
-afternoon: "Holland"
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
 },
 "2024-07-05": {
 morning: "Holland",
@@ -440,7 +441,7 @@ afternoon: "Holland"
 morning: "Out of Office",
 midday: "Out of Office",
 afternoon: "Out of Office"
-}
+},
     
 
     // ... add more dates
@@ -539,6 +540,10 @@ function displayCalendar() {
     const nextSunday = new Date(today);
     nextSunday.setDate(nextSunday.getDate() + 7);
     displayWeek(nextWeek, nextSunday);
+
+    const thirdSunday = new Date(nextSunday);
+    thirdSunday.setDate(thirdSunday.getDate() + 7);
+    displayWeek(thirdWeek, thirdSunday);
 }
 
 displayCalendar();
