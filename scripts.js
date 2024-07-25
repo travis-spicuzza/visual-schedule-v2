@@ -633,21 +633,92 @@ afternoon: "Out of Office"
   afternoon: "Holland"
 },
 "2024-08-07": {
+  morning: "Out of Office",
+  midday: "Out of Office",
+  afternoon: "Out of Office"
+},
+"2024-08-08": {
+  morning: "Out of Office",
+  midday: "Out of Office",
+  afternoon: "Out of Office"
+},
+"2024-08-09": {
+  morning: "Out of Office",
+  midday: "Out of Office",
+  afternoon: "Out of Office"
+},
+"2024-08-10": {
+  morning: "Out of Office",
+  midday: "Out of Office",
+  afternoon: "Out of Office"
+},
+
+"2024-08-11": {
+  morning: "Out of Office",
+  midday: "Out of Office",
+  afternoon: "Out of Office"
+},
+"2024-08-12": {
+  morning: "Holland",
+  midday: "Holland",
+  afternoon: "Holland"
+},
+"2024-08-13": {
+  morning: "Holland",
+  midday: "Holland",
+  afternoon: "Holland"
+},
+"2024-08-14": {
   morning: "Holland",
   midday: "Holland",
   afternoon: "Out of Office"
 },
-"2024-08-08": {
+"2024-08-15": {
   morning: "Holland",
   midday: "Holland",
   afternoon: "Holland"
 },
-"2024-08-09": {
+"2024-08-16": {
   morning: "Holland",
   midday: "Holland",
   afternoon: "Holland"
 },
-"2024-08-10": {
+"2024-08-17": {
+  morning: "Out of Office",
+  midday: "Out of Office",
+  afternoon: "Out of Office"
+},
+"2024-08-18": {
+  morning: "Out of Office",
+  midday: "Out of Office",
+  afternoon: "Out of Office"
+},
+"2024-08-19": {
+  morning: "Holland",
+  midday: "Holland",
+  afternoon: "Holland"
+},
+"2024-08-20": {
+  morning: "Holland",
+  midday: "Holland",
+  afternoon: "Holland"
+},
+"2024-08-21": {
+  morning: "Holland",
+  midday: "Holland",
+  afternoon: "Out of Office"
+},
+"2024-08-22": {
+  morning: "Holland",
+  midday: "Holland",
+  afternoon: "Holland"
+},
+"2024-08-23": {
+  morning: "Holland",
+  midday: "Holland",
+  afternoon: "Holland"
+},
+"2024-08-24": {
   morning: "Out of Office",
   midday: "Out of Office",
   afternoon: "Out of Office"
