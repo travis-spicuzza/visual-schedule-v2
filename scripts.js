@@ -669,14 +669,14 @@ afternoon: "Out of Office"
   afternoon: "Holland"
 },
 "2024-08-14": {
-  morning: "Holland",
-  midday: "Holland",
-  afternoon: "Out of Office"
+  morning: "Grand Rapids",
+  midday: "Grand Rapids",
+  afternoon: "Grand Rapids"
 },
 "2024-08-15": {
-  morning: "Holland",
-  midday: "Holland",
-  afternoon: "Holland"
+  morning: "Grand Rapids",
+  midday: "Grand Rapids",
+  afternoon: "Grand Rapids"
 },
 "2024-08-16": {
   morning: "Holland",
