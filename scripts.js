@@ -723,7 +723,111 @@ afternoon: "Out of Office"
   midday: "Out of Office",
   afternoon: "Out of Office"
 },
-
+"2024-08-25": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2024-08-26": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2024-08-27": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2024-08-28": {
+morning: "Remote",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2024-08-29": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2024-08-30": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2024-08-31": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2024-09-01": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2024-09-02": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2024-09-03": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2024-09-04": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2024-09-05": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2024-09-06": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2024-09-07": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2024-09-08": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+},
+"2024-09-09": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2024-09-10": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2024-09-11": {
+morning: "Holland",
+midday: "Out of Office",
+afternoon: "Holland"
+},
+"2024-09-12": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2024-09-13": {
+morning: "Holland",
+midday: "Holland",
+afternoon: "Holland"
+},
+"2024-09-14": {
+morning: "Out of Office",
+midday: "Out of Office",
+afternoon: "Out of Office"
+}
     
 
     // ... add more dates
