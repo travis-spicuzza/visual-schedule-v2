@@ -877,17 +877,17 @@ afternoon: "Out of Office"
 "2024-09-24": {
   morning: "Holland",
   midday: "Holland",
-  afternoon: "Holland"
+  afternoon: "Out of Office"
 },
 "2024-09-25": {
-  morning: "Holland",
-  midday: "Holland",
+  morning: "Out of Office",
+  midday: "Out of Office",
   afternoon: "Out of Office"
 },
 "2024-09-26": {
-  morning: "Holland",
-  midday: "Holland",
-  afternoon: "Holland"
+  morning: "Out of Office",
+  midday: "Out of Office",
+  afternoon: "Out of Office"
 },
 "2024-09-27": {
   morning: "Holland",
