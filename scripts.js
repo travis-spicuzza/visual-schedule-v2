@@ -947,11 +947,11 @@ afternoon: "Out of Office"
 "2024-10-08": {
   morning: "Holland",
   midday: "Holland",
-  afternoon: "Holland"
+  afternoon: "Out of Office"
 },
 "2024-10-09": {
-  morning: "Holland",
-  midday: "Holland",
+  morning: "Out of Office",
+  midday: "Out of Office",
   afternoon: "Out of Office"
 },
 "2024-10-10": {
