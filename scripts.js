@@ -1020,9 +1020,9 @@ afternoon: "Out of Office"
   afternoon: "Holland"
 },
 "2024-10-23": {
-  morning: "Holland",
-  midday: "Holland",
-  afternoon: "Holland"
+  morning: "Work From Home",
+  midday: "Work From Home",
+  afternoon: "Out of Office"
 },
 "2024-10-24": {
   morning: "Holland",
@@ -1062,7 +1062,7 @@ afternoon: "Out of Office"
 "2024-10-31": {
   morning: "Holland",
   midday: "Holland",
-  afternoon: "Holland"
+  afternoon: "Out of Office"
 },
 "2024-11-01": {
   morning: "Holland",
