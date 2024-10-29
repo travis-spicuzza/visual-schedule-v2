@@ -163,8 +163,8 @@ const schedule = {
 },
 "2024-10-30": {
   morning: "Holland",
-  midday: "Holland",
-  afternoon: "Holland"
+  midday: "Out of Office",
+  afternoon: "Work from Home"
 },
 "2024-10-31": {
   morning: "Grand Rapids",
