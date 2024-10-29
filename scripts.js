@@ -164,7 +164,7 @@ const schedule = {
 "2024-10-30": {
   morning: "Holland",
   midday: "Out of Office",
-  afternoon: "Work from Home"
+  afternoon: "Work From Home"
 },
 "2024-10-31": {
   morning: "Grand Rapids",
