@@ -204,12 +204,12 @@ const schedule = {
 "2024-11-07": {
   morning: "Holland",
   midday: "Holland",
-  afternoon: "Holland"
+  afternoon: "Out of Office"
 },
 "2024-11-08": {
-  morning: "Holland",
-  midday: "Holland",
-  afternoon: "Holland"
+  morning: "Grand Rapids",
+  midday: "Grand Rapids",
+  afternoon: "Grand Rapids"
 },
 "2024-11-09": {
   morning: "Out of Office",
