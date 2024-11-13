@@ -242,9 +242,9 @@ const schedule = {
   afternoon: "Holland"
 },
 "2024-11-15": {
-  morning: "Holland",
-  midday: "Holland",
-  afternoon: "Holland"
+  morning: "Out of Office",
+  midday: "Out of Office",
+  afternoon: "Out of Office"
 },
 "2024-11-16": {
   morning: "Out of Office",
@@ -267,19 +267,19 @@ const schedule = {
   "afternoon": "Holland"
 },
 "2024-11-20": {
-  "morning": "Holland",
-  "midday": "Holland",
-  "afternoon": "Holland"
+  "morning": "Out of Office",
+  "midday": "Out of Office",
+  "afternoon": "Out of Office"
 },
 "2024-11-21": {
-  "morning": "Holland",
-  "midday": "Holland",
-  "afternoon": "Holland"
+  "morning": "Out of Office",
+  "midday": "Out of Office",
+  "afternoon": "Out of Office"
 },
 "2024-11-22": {
-  "morning": "Holland",
-  "midday": "Holland",
-  "afternoon": "Holland"
+  "morning": "Grand Rapids",
+  "midday": "Grand Rapids",
+  "afternoon": "Grand Rapids"
 },
 "2024-11-23": {
   "morning": "Out of Office",
@@ -292,9 +292,9 @@ const schedule = {
   "afternoon": "Out of Office"
 },
 "2024-11-25": {
-  "morning": "Holland",
-  "midday": "Holland",
-  "afternoon": "Holland"
+  "morning": "Grand Rapids",
+  "midday": "Grand Rapids",
+  "afternoon": "Grand Rapids"
 },
 "2024-11-26": {
   "morning": "Holland",
