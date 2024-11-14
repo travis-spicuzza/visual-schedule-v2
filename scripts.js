@@ -262,9 +262,9 @@ const schedule = {
   "afternoon": "Holland"
 },
 "2024-11-19": {
-  "morning": "Holland",
-  "midday": "Holland",
-  "afternoon": "Holland"
+  "morning": "Out of Office",
+  "midday": "Out of Office",
+  "afternoon": "Out of Office"
 },
 "2024-11-20": {
   "morning": "Out of Office",
