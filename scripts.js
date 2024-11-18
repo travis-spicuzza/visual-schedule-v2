@@ -277,8 +277,8 @@ const schedule = {
   "afternoon": "Out of Office"
 },
 "2024-11-22": {
-  "morning": "Grand Rapids",
-  "midday": "Grand Rapids",
+  "morning": "Out of Office",
+  "midday": "Out of Office",
   "afternoon": "Grand Rapids"
 },
 "2024-11-23": {
