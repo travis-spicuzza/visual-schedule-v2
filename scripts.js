@@ -372,25 +372,165 @@ const schedule = {
   "afternoon": "Holland"
 },
 "2024-12-11": {
-  "morning": "Holland",
-  "midday": "Holland",
-  "afternoon": "Holland"
+  "morning": "Out of Office",
+  "midday": "Out of Office",
+  "afternoon": "Out of Office"
 },
 "2024-12-12": {
-  "morning": "Holland",
-  "midday": "Holland",
-  "afternoon": "Holland"
+  "morning": "Out of Office",
+  "midday": "Out of Office",
+  "afternoon": "Out of Office"
 },
 "2024-12-13": {
-  "morning": "Holland",
-  "midday": "Holland",
-  "afternoon": "Holland"
+  "morning": "Out of Office",
+  "midday": "Out of Office",
+  "afternoon": "Out of Office"
 },
 "2024-12-14": {
   "morning": "Out of Office",
   "midday": "Out of Office",
   "afternoon": "Out of Office"
-}
+},
+  "2024-12-15": {
+    "morning": "Out of Office",
+    "midday": "Out of Office",
+    "afternoon": "Out of Office"
+  },
+  "2024-12-16": {
+  "morning": "Out of Office",
+  "midday": "Out of Office",
+  "afternoon": "Out of Office"
+  },
+  "2024-12-17": {
+  "morning": "Out of Office",
+  "midday": "Out of Office",
+  "afternoon": "Out of Office"
+  },
+  "2024-12-18": {
+  "morning": "Out of Office",
+  "midday": "Out of Office",
+  "afternoon": "Out of Office"
+  },
+  "2024-12-19": {
+  "morning": "Out of Office",
+    "midday": "Holland",
+    "afternoon": "Holland"
+  },
+  "2024-12-20": {
+    "morning": "Holland",
+    "midday": "Holland",
+    "afternoon": "Holland"
+  },
+  "2024-12-21": {
+    "morning": "Out of Office",
+    "midday": "Out of Office",
+    "afternoon": "Out of Office"
+  },
+  "2024-12-22": {
+    "morning": "Out of Office",
+    "midday": "Out of Office",
+    "afternoon": "Out of Office"
+  },
+  "2024-12-23": {
+    "morning": "Holland",
+    "midday": "Holland",
+    "afternoon": "Holland"
+  },
+  "2024-12-24": {
+    "morning": "Holland",
+    "midday": "Holland",
+    "afternoon": "Holland"
+  },
+  "2024-12-25": {
+    "morning": "Holland",
+    "midday": "Holland",
+    "afternoon": "Holland"
+  },
+  "2024-12-26": {
+    "morning": "Holland",
+    "midday": "Holland",
+    "afternoon": "Holland"
+  },
+  "2024-12-27": {
+    "morning": "Holland",
+    "midday": "Holland",
+    "afternoon": "Holland"
+  },
+  "2024-12-28": {
+    "morning": "Out of Office",
+    "midday": "Out of Office",
+    "afternoon": "Out of Office"
+  },
+  "2024-12-29": {
+    "morning": "Out of Office",
+    "midday": "Out of Office",
+    "afternoon": "Out of Office"
+  },
+  "2024-12-30": {
+    "morning": "Holland",
+    "midday": "Holland",
+    "afternoon": "Holland"
+  },
+  "2024-12-31": {
+    "morning": "Holland",
+    "midday": "Holland",
+    "afternoon": "Holland"
+  },
+  "2025-01-01": {
+    "morning": "Holland",
+    "midday": "Holland",
+    "afternoon": "Holland"
+  },
+  "2025-01-02": {
+    "morning": "Holland",
+    "midday": "Holland",
+    "afternoon": "Holland"
+  },
+  "2025-01-03": {
+    "morning": "Holland",
+    "midday": "Holland",
+    "afternoon": "Holland"
+  },
+  "2025-01-04": {
+    "morning": "Out of Office",
+    "midday": "Out of Office",
+    "afternoon": "Out of Office"
+  },
+  "2025-01-05": {
+    "morning": "Out of Office",
+    "midday": "Out of Office",
+    "afternoon": "Out of Office"
+  },
+  "2025-01-06": {
+    "morning": "Holland",
+    "midday": "Holland",
+    "afternoon": "Holland"
+  },
+  "2025-01-07": {
+    "morning": "Holland",
+    "midday": "Holland",
+    "afternoon": "Holland"
+  },
+  "2025-01-08": {
+    "morning": "Holland",
+    "midday": "Holland",
+    "afternoon": "Holland"
+  },
+  "2025-01-09": {
+    "morning": "Holland",
+    "midday": "Holland",
+    "afternoon": "Holland"
+  },
+  "2025-01-10": {
+    "morning": "Holland",
+    "midday": "Holland",
+    "afternoon": "Holland"
+  },
+  "2025-01-11": {
+    "morning": "Out of Office",
+    "midday": "Out of Office",
+    "afternoon": "Out of Office"
+  },
 
 
     
