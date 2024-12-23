@@ -437,24 +437,24 @@ const schedule = {
     "afternoon": "Holland"
   },
   "2024-12-24": {
-    "morning": "Holland",
-    "midday": "Holland",
-    "afternoon": "Holland"
+    "morning": "Out of Office",
+    "midday": "Out of Office",
+    "afternoon": "Out of Office"
   },
   "2024-12-25": {
-    "morning": "Holland",
-    "midday": "Holland",
-    "afternoon": "Holland"
+    "morning": "Out of Office",
+    "midday": "Out of Office",
+    "afternoon": "Out of Office"
   },
   "2024-12-26": {
-    "morning": "Holland",
-    "midday": "Holland",
-    "afternoon": "Holland"
+    "morning": "Out of Office",
+    "midday": "Out of Office",
+    "afternoon": "Out of Office"
   },
   "2024-12-27": {
-    "morning": "Holland",
-    "midday": "Holland",
-    "afternoon": "Holland"
+    "morning": "Out of Office",
+    "midday": "Out of Office",
+    "afternoon": "Out of Office"
   },
   "2024-12-28": {
     "morning": "Out of Office",
@@ -477,9 +477,9 @@ const schedule = {
     "afternoon": "Holland"
   },
   "2025-01-01": {
-    "morning": "Holland",
-    "midday": "Holland",
-    "afternoon": "Holland"
+    "morning": "Out of Office",
+    "midday": "Out of Office",
+    "afternoon": "Out of Office"
   },
   "2025-01-02": {
     "morning": "Holland",
@@ -531,6 +531,111 @@ const schedule = {
     "midday": "Out of Office",
     "afternoon": "Out of Office"
   },
+"2025-01-12": {
+  "morning": "Out of Office",
+  "midday": "Out of Office",
+  "afternoon": "Out of Office"
+},
+"2025-01-13": {
+  "morning": "Holland",
+  "midday": "Holland",
+  "afternoon": "Holland"
+},
+"2025-01-14": {
+  "morning": "Holland",
+  "midday": "Holland",
+  "afternoon": "Holland"
+},
+"2025-01-15": {
+  "morning": "Holland",
+  "midday": "Holland",
+  "afternoon": "Holland"
+},
+"2025-01-16": {
+  "morning": "Holland",
+  "midday": "Holland",
+  "afternoon": "Holland"
+},
+"2025-01-17": {
+  "morning": "Holland",
+  "midday": "Holland",
+  "afternoon": "Holland"
+},
+"2025-01-18": {
+  "morning": "Out of Office",
+  "midday": "Out of Office",
+  "afternoon": "Out of Office"
+},
+"2025-01-19": {
+  "morning": "Out of Office",
+  "midday": "Out of Office",
+  "afternoon": "Out of Office"
+},
+"2025-01-20": {
+  "morning": "Holland",
+  "midday": "Holland",
+  "afternoon": "Holland"
+},
+"2025-01-21": {
+  "morning": "Holland",
+  "midday": "Holland",
+  "afternoon": "Holland"
+},
+"2025-01-22": {
+  "morning": "Holland",
+  "midday": "Holland",
+  "afternoon": "Holland"
+},
+"2025-01-23": {
+  "morning": "Holland",
+  "midday": "Holland",
+  "afternoon": "Holland"
+},
+"2025-01-24": {
+  "morning": "Holland",
+  "midday": "Holland",
+  "afternoon": "Holland"
+},
+"2025-01-25": {
+  "morning": "Out of Office",
+  "midday": "Out of Office",
+  "afternoon": "Out of Office"
+},
+"2025-01-26": {
+  "morning": "Out of Office",
+  "midday": "Out of Office",
+  "afternoon": "Out of Office"
+},
+"2025-01-27": {
+  "morning": "Holland",
+  "midday": "Holland",
+  "afternoon": "Holland"
+},
+"2025-01-28": {
+  "morning": "Holland",
+  "midday": "Holland",
+  "afternoon": "Holland"
+},
+"2025-01-29": {
+  "morning": "Holland",
+  "midday": "Holland",
+  "afternoon": "Holland"
+},
+"2025-01-30": {
+  "morning": "Holland",
+  "midday": "Holland",
+  "afternoon": "Holland"
+},
+"2025-01-31": {
+  "morning": "Holland",
+  "midday": "Holland",
+  "afternoon": "Holland"
+},
+"2025-02-01": {
+  "morning": "Out of Office",
+  "midday": "Out of Office",
+  "afternoon": "Out of Office"
+},
 
 
     
