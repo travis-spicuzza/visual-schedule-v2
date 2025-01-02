@@ -487,9 +487,9 @@ const schedule = {
     "afternoon": "Holland"
   },
   "2025-01-03": {
-    "morning": "Holland",
-    "midday": "Holland",
-    "afternoon": "Holland"
+  "morning": "Out of Office",
+  "midday": "Out of Office",
+  "afternoon": "Out of Office"
   },
   "2025-01-04": {
     "morning": "Out of Office",
@@ -572,29 +572,29 @@ const schedule = {
   "afternoon": "Out of Office"
 },
 "2025-01-20": {
-  "morning": "Holland",
-  "midday": "Holland",
-  "afternoon": "Holland"
+  "morning": "Out of Office",
+  "midday": "Out of Office",
+  "afternoon": "Out of Office"
 },
 "2025-01-21": {
-  "morning": "Holland",
-  "midday": "Holland",
-  "afternoon": "Holland"
+  "morning": "Out of Office",
+  "midday": "Out of Office",
+  "afternoon": "Out of Office"
 },
 "2025-01-22": {
-  "morning": "Holland",
-  "midday": "Holland",
-  "afternoon": "Holland"
+  "morning": "Out of Office",
+  "midday": "Out of Office",
+  "afternoon": "Out of Office"
 },
 "2025-01-23": {
-  "morning": "Holland",
-  "midday": "Holland",
-  "afternoon": "Holland"
+  "morning": "Out of Office",
+  "midday": "Out of Office",
+  "afternoon": "Out of Office"
 },
 "2025-01-24": {
-  "morning": "Holland",
-  "midday": "Holland",
-  "afternoon": "Holland"
+  "morning": "Out of Office",
+  "midday": "Out of Office",
+  "afternoon": "Out of Office"
 },
 "2025-01-25": {
   "morning": "Out of Office",
@@ -607,29 +607,29 @@ const schedule = {
   "afternoon": "Out of Office"
 },
 "2025-01-27": {
-  "morning": "Holland",
-  "midday": "Holland",
-  "afternoon": "Holland"
+  "morning": "Out of Office",
+  "midday": "Out of Office",
+  "afternoon": "Out of Office"
 },
 "2025-01-28": {
-  "morning": "Holland",
-  "midday": "Holland",
-  "afternoon": "Holland"
+  "morning": "Out of Office",
+  "midday": "Out of Office",
+  "afternoon": "Out of Office"
 },
 "2025-01-29": {
-  "morning": "Holland",
-  "midday": "Holland",
-  "afternoon": "Holland"
+  "morning": "Out of Office",
+  "midday": "Out of Office",
+  "afternoon": "Out of Office"
 },
 "2025-01-30": {
-  "morning": "Holland",
-  "midday": "Holland",
-  "afternoon": "Holland"
+  "morning": "Out of Office",
+  "midday": "Out of Office",
+  "afternoon": "Out of Office"
 },
 "2025-01-31": {
-  "morning": "Holland",
-  "midday": "Holland",
-  "afternoon": "Holland"
+  "morning": "Out of Office",
+  "midday": "Out of Office",
+  "afternoon": "Out of Office"
 },
 "2025-02-01": {
   "morning": "Out of Office",
