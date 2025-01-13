@@ -617,14 +617,14 @@ const schedule = {
   "afternoon": "Out of Office"
 },
 "2025-01-29": {
-  "morning": "Out of Office",
-  "midday": "Out of Office",
-  "afternoon": "Out of Office"
+  "morning": "Holland",
+  "midday": "Holland",
+  "afternoon": "Holland"
 },
 "2025-01-30": {
-  "morning": "Out of Office",
-  "midday": "Out of Office",
-  "afternoon": "Out of Office"
+  "morning": "Holland",
+  "midday": "Holland",
+  "afternoon": "Holland"
 },
 "2025-01-31": {
   "morning": "Out of Office",
